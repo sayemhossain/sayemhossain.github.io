@@ -177,21 +177,5 @@ font-family: 'Teko', sans-serif; */
 .footer-head{
     font-weight: bold;
 }
-.footer-btn{
-    background-color: #FFA500 ;
-   color: black;
-   padding: 10px;
-   padding-right: 15px;
-   padding-left: 15px;
-   border-style: none;
-   border-radius: 15px;
-   font-family: 'Acme', sans-serif;
-   transition: 0.4s;
-   
-}
-.footer-btn:hover{
-    background-color: #C0C0C0 ;
-    color: black;
-    transform: scaleX(1.2);
-}
+
 
